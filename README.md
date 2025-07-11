@@ -27,7 +27,7 @@ Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano d
 
 ## 📫 Entre em Contato  
 - 🎮 [Discord](https://discord.com/users/836288803307388959)  
-- 📸 [Instagram](https://instagram.com/kaynzz.66)  
+- 📸 [Instagram](https://www.instagram.com/kayzzx.66/)  
 - 💼 [LinkedIn](www.linkedin.com/in/kayo-dev)   
   
 ![{usuario} Github stats](https://github-readme-stats.vercel.app/api/?username=Kaynzz23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000)
