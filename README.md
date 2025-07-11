@@ -16,17 +16,17 @@ Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano d
   
 
 ##  👨‍💻 Linguagens:
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=ts,js,nodejs)](https://skillicons.dev)
 
-## ⚙️ Frameworks:
-[![My Frameworks](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+## 📦 Bibliotecas:
+[![My Libraries](https://skillicons.dev/icons?i=express,discordjs,prisma)](https://skillicons.dev)
 
 ## 🔧 Ferramentas:
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
  
 
 ## 📫 Entre em Contato  
-- 🎮 Discord: `kazu_dv`  
+- 🎮 [Discord](https://discord.com/users/836288803307388959)  
 - 📸 [Instagram](https://instagram.com/kaynzz.66)  
 - 💼 [LinkedIn](www.linkedin.com/in/kayo-dev)   
   
