@@ -15,13 +15,16 @@ Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano d
   
 
 ##  👨‍💻 Linguagens:
-[![My Languages](https://skillicons.dev/icons?i=html,css,ts,js,nodejs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
 
 ## 📦 Frameworks:
-[![My Libraries](https://skillicons.dev/icons?i=express,prisma,react,nextjs)](https://skillicons.dev)
+[![My Libraries](https://skillicons.dev/icons?i=express,react,nextjs)](https://skillicons.dev)
+
+## Banco de Dados:
+[![My Libraries](https://skillicons.dev/icons?i=prisma,mongodb,postgres)](https://skillicons.dev)
 
 ## 🔧 Ferramentas:
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
  
 
 ## 📫 Entre em Contato  
