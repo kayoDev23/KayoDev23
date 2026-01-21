@@ -1,25 +1,24 @@
-<h1 align="center"> 🚀 Kazu | Desenvolvedor node.js </h1>  
+<h1 align="center"> 🚀 Kazu | Desenvolvedor Jr. </h1>  
 
 <p align="center">
-  💻 Estudante de Programação | 👨‍💻 Back-End Developer
+  💻 Estudante de Programação | 👨‍💻 Full-stack Developer
 </p>
 
-Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação. Minha jornada está focada no desenvolvimento back-end mas pretendo me formar como um **Engenheiro de Software Full Stack**
-  
+Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação.
 
 ## 🚀 Sobre Mim  
-- 💻 Aspirante a **Desenvolvedor Full Stack**  
+- 💻 **Desenvolvedor Full Stack Jr.**  
 - 🎯 Especial interesse em **back-end, APIs e integrações de sistemas**  
-- 📚 Estudando **Typescript e tecnologias para o desenvolvimento backend**  
-- 🔥 Aprimorando habilidades em **Node.js**  
+- 📚 Estudando **tecnologias para o desenvolvimento frontend e backend**  
+- 🔥 Aprimorando habilidades em **IA**  
 - 🤝 Sempre aberto a colaborações, aprendizado e novos desafios!  
   
 
 ##  👨‍💻 Linguagens:
-[![My Languages](https://skillicons.dev/icons?i=ts,js,nodejs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,ts,js,nodejs)](https://skillicons.dev)
 
-## 📦 Bibliotecas:
-[![My Libraries](https://skillicons.dev/icons?i=express,discordjs,prisma)](https://skillicons.dev)
+## 📦 Frameworks:
+[![My Libraries](https://skillicons.dev/icons?i=express,prisma,react,nextjs)](https://skillicons.dev)
 
 ## 🔧 Ferramentas:
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
@@ -28,7 +27,7 @@ Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano d
 ## 📫 Entre em Contato  
 - 🎮 [Discord](https://discord.com/users/836288803307388959)  
 - 📸 [Instagram](https://www.instagram.com/kayzzx.66/)  
-- 💼 [LinkedIn](www.linkedin.com/in/kayo-dev)   
+- 💼 [LinkedIn](www.linkedin.com/in/kayoo-dev)   
   
 ![{usuario} Github stats](https://github-readme-stats.vercel.app/api/?username=Kaynzz23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynzz23&layout=compact&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000) 
