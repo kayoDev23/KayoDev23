@@ -32,7 +32,7 @@ Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano d
 - 📸 [Instagram](https://www.instagram.com/kayzzx.66/)  
 - 💼 [LinkedIn](www.linkedin.com/in/kayoo-dev)   
   
-![{usuario} Github stats](https://github-readme-stats.vercel.app/api/?username=Kaynzz23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynzz23&layout=compact&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000) 
+![{usuario} Github stats](https://github-readme-stats.vercel.app/api/?username=KayoDev23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoDev23&layout=compact&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000) 
 
 📌 *Aprendendo, evoluindo e construindo o futuro com código! 🚀*  
