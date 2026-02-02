@@ -4,7 +4,7 @@
   💻 Estudante de Programação | 👨‍💻 Full-stack Developer
 </p>
 
-Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação.
+Me chamo Kayo, sou um entusiasta da tecnologia com 17 anos, cursando tecnico em Desenvolvimento de Sistemas e me aprofundando no universo da programação.
 
 ## 🚀 Sobre Mim  
 - 💻 **Desenvolvedor Full Stack Jr.**  
